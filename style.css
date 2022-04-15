@@ -18,7 +18,7 @@ body {
   background: hsl(212, 45%, 89%);
 }
 
-.card {
+.container {
   border-radius: 20px;
   box-shadow: 0 15px 20px rgb(198, 208, 222);
   display: flex;
