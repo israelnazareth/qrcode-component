@@ -1,7 +1,7 @@
 # QR code component
 
 ## O que foi desenvolvido
-  * Um componente em `HTML` e `CSS`.
+  * Um componente em `HTML` e `CSS` tendo como base [esse desafio](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) do site [Frontend Mentor](https://www.frontendmentor.io/).
 
 ---
 
